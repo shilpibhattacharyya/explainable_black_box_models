@@ -1,6 +1,0 @@
-"alert_id","src_sys","src_id","cust_id","acct_id","subject_display_name","start_ts","end_ts","priority","susptype1","susptype2","susptype3","alert_score","peer_group","disposition","desc_1","desc_2","desc_3","creater_id","create_ts","review_state","review_ts","review_oper","status","closed_ts","disposition_oper"
-1,"1","Alert1",17850,4926,,"2018-03-01T10:26:03Z",,"low","CR-T","1",,70,,,,,,"Prime","2018-03-01T10:26:03Z",,,,"Open",,
-2,"1","Alert2",14607,2625,,"2019-02-20T11:34:03Z",,"high","CR-T","3",,90,,,,,,"Prime","2019-02-20T11:34:03Z",,,,"Open",,
-3,"1","Alert3",12764,1340,,"2018-04-27T12:19:03Z",,"medium","CR-C","2",,80,,,,,,"Prime","2018-04-27T12:19:03Z",,,,"Open",,
-4,"1","Alert4",16000,3620,,"2019-03-07T14:17:03Z",,"medium","CR-T","2",,80,,,,,,"Prime","2019-03-07T14:17:03Z",,,,"Open",,
-5,"1","Alert5",13809,6728,,"2018-05-08T15:15:03Z",,"medium","CR-S","1",,80,,,,,,"Prime","2018-05-08T15:15:03Z",,,,"Open",,
